@@ -1,4 +1,3 @@
-// EmailService.js
 class MockProvider {
     constructor(name, failRate = 0.3) {
         this.name = name;
